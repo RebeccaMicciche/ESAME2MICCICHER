@@ -1,0 +1,110 @@
+div.text{
+    font-family: 'Inika';
+    font-size: smaller;
+    text-align: center;
+}
+
+body{
+    background-color: #eccecd;
+}
+
+div.illustr{
+    font-family: 'inika';
+    text-align: center;    
+    background-color: #886274;
+    color: white;
+}
+
+div.camilo{
+    font-family: 'inika';
+    font-size: larger;
+    margin-bottom: 2%;
+    background-color: #90748d;
+}
+
+div.tim{
+    font-family: 'inika';
+    font-size: larger;
+    margin-bottom: 2%;
+    background-color: #90748d;
+}
+
+div.linn{
+    font-family: 'inika';
+    font-size: larger;
+    margin-bottom: 2%;
+    background-color: #90748d;
+}
+
+div.karlotta{
+    font-family: 'inika';
+    font-size: larger;
+    margin-bottom: 2%;
+    background-color: #90748d;
+}
+
+div.xoana{
+    font-family: 'inika';
+    font-size: larger;
+    margin-bottom: 2%;
+    background-color: #90748d;
+}
+
+div.laboca{
+    font-family: 'inika';
+    font-size: larger;
+    background-color: #90748d;
+}
+
+a:hover{
+    color: red;
+}
+
+div.nostri{
+    text-align: center;
+    font-family: 'inika';
+    font-size: large;
+}
+
+div.img1{
+    text-align: center;
+    float: left;
+    margin-top: 2%;
+}
+
+div.img2{
+    text-align: center;
+    float: left;
+    margin-top: 2%;
+}
+
+div.img3{
+    text-align: center;
+    float: left;
+    margin-top: 2%;
+}
+
+div.img4{
+    text-align: center;
+    float: left;
+    margin-top: 2%;
+}
+
+div.img5{
+    text-align: center;
+    float: left;
+    margin-top: 2%;
+}
+
+div.img6{
+    text-align: center;
+    float: right;
+    margin-top: -14%;
+}
+
+div.footer{
+    text-align: center;
+    margin-top: 23%;
+    font-family: 'inika';
+    background-color: #90748d;
+}
